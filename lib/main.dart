@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'face_detection_screen.dart';
+import 'face_eyeblink_detection_screen.dart';
 
 void main() {
   runApp(const MyApp());
